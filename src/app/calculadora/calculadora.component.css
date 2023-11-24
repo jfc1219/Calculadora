@@ -1,0 +1,30 @@
+.container input{
+    background: black;
+    color: yellow;
+    height: 50px;
+    width: 70px;
+    border-radius: 10px;
+    border: 1px ;
+    margin: 2px;
+    font-size: xx-large;
+}
+
+.container input:hover{
+    color: rgb(112,239,239);
+    font-weight: bold;
+}
+
+.full{
+    border: 5px solid;
+    margin: 2px;
+    padding: 12px;
+    border-radius: 20px;
+    width: 750px;
+    justify-content: center;
+}
+
+input[type="text"]{
+    text-align: right;
+}
+
+
